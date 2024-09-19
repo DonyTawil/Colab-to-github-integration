@@ -1,5 +1,8 @@
+
 # Creating a new repo in github
 # Trying to connect to github to create a new repo, from chatgpt
+# To add a file to a repo from google colab cell add this text to the top of the cell
+############## %%writefile name_of_file.py
 import requests
 import json
 
